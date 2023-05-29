@@ -55,6 +55,8 @@ struct CreateNewMessageView: View {
                     Button {
                         presentationMode.wrappedValue.dismiss()
                         didSelectNewUser(user)
+                        
+                        
                     } label: {
                         HStack(spacing: 16) {
                             WebImage(url: URL(string: user.profileImageUrl))

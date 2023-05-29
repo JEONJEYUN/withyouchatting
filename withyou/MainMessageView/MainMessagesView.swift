@@ -201,7 +201,7 @@ struct MainMessagesView: View {
             ForEach(vm.recentMessages) { recentMessage in
                 VStack {
                     NavigationLink {
-                        Text("Destination")
+                        Text("hi")
                     } label: {
                         HStack(spacing: 16) {
                             WebImage(url: URL(string: recentMessage.profileImageUrl))
@@ -274,9 +274,7 @@ struct MainMessagesView: View {
 
 struct MainMessagesView_Previews: PreviewProvider {
     static var previews: some View {
-        MainMessagesView()
-            .preferredColorScheme(.dark)
-        
+
         MainMessagesView()
     }
 }

@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3352A1282A24851800F6758F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1272A24851800F6758F /* ContentView.swift */; };
+		3352A12E2A24853400F6758F /* ChattingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A12A2A24853400F6758F /* ChattingPage.swift */; };
+		3352A12F2A24853400F6758F /* RoommateInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A12B2A24853400F6758F /* RoommateInfoView.swift */; };
+		3352A1302A24853400F6758F /* RoommateFindView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A12C2A24853400F6758F /* RoommateFindView.swift */; };
+		3352A1312A24853400F6758F /* DetailVeiw_Front.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A12D2A24853400F6758F /* DetailVeiw_Front.swift */; };
+		3352A1362A24854A00F6758F /* memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1322A24854A00F6758F /* memo.swift */; };
+		3352A1372A24854A00F6758F /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1332A24854A00F6758F /* UserProfile.swift */; };
+		3352A1382A24854A00F6758F /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1342A24854A00F6758F /* Todo.swift */; };
+		3352A1392A24854A00F6758F /* AnotherProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1352A24854A00F6758F /* AnotherProfile.swift */; };
+		3352A13D2A24855300F6758F /* LodingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A13B2A24855300F6758F /* LodingView.swift */; };
+		3352A1422A24857100F6758F /* UserNameSetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1402A24857100F6758F /* UserNameSetView.swift */; };
+		3352A1432A24857100F6758F /* TestingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1412A24857100F6758F /* TestingView.swift */; };
+		3352A14F2A24859700F6758F /* ToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A14A2A24859700F6758F /* ToDoView.swift */; };
+		3352A1502A24859700F6758F /* WithYouView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A14B2A24859700F6758F /* WithYouView.swift */; };
+		3352A1512A24859700F6758F /* MemoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A14C2A24859700F6758F /* MemoListView.swift */; };
+		3352A1522A24859700F6758F /* MyProfileConView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A14D2A24859700F6758F /* MyProfileConView.swift */; };
+		3352A1532A24859700F6758F /* ToDoCon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A14E2A24859700F6758F /* ToDoCon.swift */; };
+		3352A1562A2485A100F6758F /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3352A1552A2485A100F6758F /* SettingsView.swift */; };
 		3362B8FD2A1E6ECB00C74146 /* withyouApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3362B8FC2A1E6ECB00C74146 /* withyouApp.swift */; };
 		3362B8FF2A1E6ECB00C74146 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3362B8FE2A1E6ECB00C74146 /* LoginView.swift */; };
 		3362B9012A1E6ECD00C74146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3362B9002A1E6ECD00C74146 /* Assets.xcassets */; };
@@ -28,6 +46,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3352A1272A24851800F6758F /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3352A12A2A24853400F6758F /* ChattingPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChattingPage.swift; sourceTree = "<group>"; };
+		3352A12B2A24853400F6758F /* RoommateInfoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoommateInfoView.swift; sourceTree = "<group>"; };
+		3352A12C2A24853400F6758F /* RoommateFindView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoommateFindView.swift; sourceTree = "<group>"; };
+		3352A12D2A24853400F6758F /* DetailVeiw_Front.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVeiw_Front.swift; sourceTree = "<group>"; };
+		3352A1322A24854A00F6758F /* memo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = memo.swift; sourceTree = "<group>"; };
+		3352A1332A24854A00F6758F /* UserProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		3352A1342A24854A00F6758F /* Todo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
+		3352A1352A24854A00F6758F /* AnotherProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnotherProfile.swift; sourceTree = "<group>"; };
+		3352A13B2A24855300F6758F /* LodingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LodingView.swift; sourceTree = "<group>"; };
+		3352A1402A24857100F6758F /* UserNameSetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserNameSetView.swift; sourceTree = "<group>"; };
+		3352A1412A24857100F6758F /* TestingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestingView.swift; sourceTree = "<group>"; };
+		3352A14A2A24859700F6758F /* ToDoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoView.swift; sourceTree = "<group>"; };
+		3352A14B2A24859700F6758F /* WithYouView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WithYouView.swift; sourceTree = "<group>"; };
+		3352A14C2A24859700F6758F /* MemoListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemoListView.swift; sourceTree = "<group>"; };
+		3352A14D2A24859700F6758F /* MyProfileConView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyProfileConView.swift; sourceTree = "<group>"; };
+		3352A14E2A24859700F6758F /* ToDoCon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoCon.swift; sourceTree = "<group>"; };
+		3352A1552A2485A100F6758F /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		3362B8F92A1E6ECB00C74146 /* withyou.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = withyou.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3362B8FC2A1E6ECB00C74146 /* withyouApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = withyouApp.swift; sourceTree = "<group>"; };
 		3362B8FE2A1E6ECB00C74146 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
@@ -60,6 +96,54 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3352A1292A24853400F6758F /* roommateFind */ = {
+			isa = PBXGroup;
+			children = (
+				3352A12A2A24853400F6758F /* ChattingPage.swift */,
+				3352A12B2A24853400F6758F /* RoommateInfoView.swift */,
+				3352A12C2A24853400F6758F /* RoommateFindView.swift */,
+				3352A12D2A24853400F6758F /* DetailVeiw_Front.swift */,
+			);
+			path = roommateFind;
+			sourceTree = "<group>";
+		};
+		3352A13A2A24855300F6758F /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				3352A13B2A24855300F6758F /* LodingView.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		3352A13F2A24857100F6758F /* Testing */ = {
+			isa = PBXGroup;
+			children = (
+				3352A1402A24857100F6758F /* UserNameSetView.swift */,
+				3352A1412A24857100F6758F /* TestingView.swift */,
+			);
+			path = Testing;
+			sourceTree = "<group>";
+		};
+		3352A1492A24859700F6758F /* RoommateLife */ = {
+			isa = PBXGroup;
+			children = (
+				3352A14A2A24859700F6758F /* ToDoView.swift */,
+				3352A14B2A24859700F6758F /* WithYouView.swift */,
+				3352A14C2A24859700F6758F /* MemoListView.swift */,
+				3352A14D2A24859700F6758F /* MyProfileConView.swift */,
+				3352A14E2A24859700F6758F /* ToDoCon.swift */,
+			);
+			path = RoommateLife;
+			sourceTree = "<group>";
+		};
+		3352A1542A2485A100F6758F /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				3352A1552A2485A100F6758F /* SettingsView.swift */,
+			);
+			path = Setting;
+			sourceTree = "<group>";
+		};
 		3362B8F02A1E6ECB00C74146 = {
 			isa = PBXGroup;
 			children = (
@@ -79,10 +163,16 @@
 		3362B8FB2A1E6ECB00C74146 /* withyou */ = {
 			isa = PBXGroup;
 			children = (
+				3352A1542A2485A100F6758F /* Setting */,
+				3352A1492A24859700F6758F /* RoommateLife */,
+				3352A13F2A24857100F6758F /* Testing */,
+				3352A13A2A24855300F6758F /* Login */,
+				3352A1292A24853400F6758F /* roommateFind */,
 				3362B92C2A1F191000C74146 /* Model */,
 				3362B9242A1EFEF800C74146 /* Utils */,
 				3362B9212A1EFA3000C74146 /* MainMessageView */,
 				3362B8FC2A1E6ECB00C74146 /* withyouApp.swift */,
+				3352A1272A24851800F6758F /* ContentView.swift */,
 				3362B8FE2A1E6ECB00C74146 /* LoginView.swift */,
 				3362B90F2A1E73D400C74146 /* GoogleService-Info.plist */,
 				3362B9002A1E6ECD00C74146 /* Assets.xcassets */,
@@ -124,6 +214,10 @@
 			children = (
 				3362B92D2A1F192500C74146 /* ChatUser.swift */,
 				3362B94D2A1F748600C74146 /* ChatMessage.swift */,
+				3352A1352A24854A00F6758F /* AnotherProfile.swift */,
+				3352A1322A24854A00F6758F /* memo.swift */,
+				3352A1342A24854A00F6758F /* Todo.swift */,
+				3352A1332A24854A00F6758F /* UserProfile.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -226,16 +320,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3352A12E2A24853400F6758F /* ChattingPage.swift in Sources */,
+				3352A1522A24859700F6758F /* MyProfileConView.swift in Sources */,
 				3362B94E2A1F748600C74146 /* ChatMessage.swift in Sources */,
+				3352A1282A24851800F6758F /* ContentView.swift in Sources */,
+				3352A1422A24857100F6758F /* UserNameSetView.swift in Sources */,
+				3352A1432A24857100F6758F /* TestingView.swift in Sources */,
+				3352A13D2A24855300F6758F /* LodingView.swift in Sources */,
+				3352A1362A24854A00F6758F /* memo.swift in Sources */,
+				3352A1502A24859700F6758F /* WithYouView.swift in Sources */,
 				3362B92E2A1F192500C74146 /* ChatUser.swift in Sources */,
 				3362B9342A1F302200C74146 /* ChatLogView.swift in Sources */,
+				3352A1312A24853400F6758F /* DetailVeiw_Front.swift in Sources */,
+				3352A14F2A24859700F6758F /* ToDoView.swift in Sources */,
 				3362B9122A1E7D5500C74146 /* ImagePicker.swift in Sources */,
+				3352A12F2A24853400F6758F /* RoommateInfoView.swift in Sources */,
 				3362B9232A1EFB3200C74146 /* MainMessagesView.swift in Sources */,
 				3362B9282A1EFF5400C74146 /* FirebaseManager.swift in Sources */,
+				3352A1512A24859700F6758F /* MemoListView.swift in Sources */,
+				3352A1562A2485A100F6758F /* SettingsView.swift in Sources */,
 				3362B9302A1F1BF400C74146 /* CreateNewMessageView.swift in Sources */,
 				3362B8FF2A1E6ECB00C74146 /* LoginView.swift in Sources */,
+				3352A1382A24854A00F6758F /* Todo.swift in Sources */,
+				3352A1532A24859700F6758F /* ToDoCon.swift in Sources */,
+				3352A1302A24853400F6758F /* RoommateFindView.swift in Sources */,
+				3352A1392A24854A00F6758F /* AnotherProfile.swift in Sources */,
 				3362B9502A1F74AE00C74146 /* FirebaseConstants.swift in Sources */,
 				3362B8FD2A1E6ECB00C74146 /* withyouApp.swift in Sources */,
+				3352A1372A24854A00F6758F /* UserProfile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,7 +404,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -346,7 +458,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
